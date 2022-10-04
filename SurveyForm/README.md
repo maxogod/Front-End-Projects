@@ -1,6 +1,6 @@
-# Valorant survey 
+# Valorant survey~
 
-## to get information usefull for making decisions/changes on the community guidelines & when to flag/ban an account
+## ~to get information usefull for making decisions/changes on the community guidelines & when to flag/ban an account
 
 <img src="img/img-1.png">
 <img src="img/img-2.png">
